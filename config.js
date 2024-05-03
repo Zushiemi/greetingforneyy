@@ -3,14 +3,13 @@ var config = {
     // write any no ofsentence
     // lenth <15 words
     texts: [
-        "To the ",      // comma at end of every sentence
-        "Sweetest girl I know",  // same as above
+        "To my seatmate na basher ",      // comma at end of every sentence
         " 🎂🎉🎁 ", 
         "I wish you ",
         "more years of a sweet & happy life 😇 ",
         
         "🍭🍬🍭🍬 ",
-        "🎊HAPPY BIRTHDAY🎊 🎊SHWETA🎊",
+        "🎊HAPPY BIRTHDAY🎊 🎊JILL🎊",
     ],
     /**
     need images
@@ -19,7 +18,7 @@ var config = {
         "Sweetest girl I know":"./imgs/xiaokeai.png" ,
         "I wish you " : "./imgs/1.jpeg" ,
         "more years of a sweet & happy life 😇 ": "./imgs/2.jpeg",
-        "🎊HAPPY BIRTHDAY🎊 🎊SHWETA🎊": "./imgs/3.gif" ,
+        "🎊HAPPY BIRTHDAY🎊 🎊Jill🎊": "./imgs/3.gif" ,
     },
     // button description
     desc: {
